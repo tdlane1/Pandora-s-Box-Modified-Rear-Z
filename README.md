@@ -12,4 +12,10 @@ Belt path shifted 1mm to the right.  Modified upper idler stl included.  Add add
 Refer to K3 assembly instrucitons for tips on how to assemble.
 
 
+## Printing Orientation
+
+<p align="center">
+  <img src="images/orientation.png" width="400">
+</p>
+
 Modification for MasturMynd's Pandora's Box. https://github.com/MasturMynd/Pandoras_Box
